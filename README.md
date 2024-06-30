@@ -1,5 +1,5 @@
 Hi there !!!
-I am Charan HS currently pursuing AI and DS engineering at SDMIT.
+I am Charan HS currently pursuing AI and DS Engineering at SDMIT.
 
 
 ## 🌐 Socials:
