@@ -1,0 +1,9 @@
+
+create table Farmers (
+    Farmer_ID int,
+    Name varchar(20),
+    ContactNum varchar(10),
+    Email varchar(15),
+    Address varchar(20),
+    primary key(Farmer_ID)
+);
