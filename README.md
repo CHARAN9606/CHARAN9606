@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi from Charan 👋
 
 <!--
 **CHARAN9606/CHARAN9606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
