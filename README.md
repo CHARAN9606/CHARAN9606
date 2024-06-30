@@ -1,5 +1,5 @@
-
-I am a Engineering student
+Hi there !!!
+Ia am Charan currently pursuing AIand DS engineering at SDMIT.
 
 
 ## 🌐 Socials:
