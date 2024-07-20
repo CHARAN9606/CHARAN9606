@@ -1,4 +1,4 @@
-Hi there !!!
+Heyy there !!!
 I am Charan HS currently pursuing AI and DS Engineering at SDMIT.
 
 
