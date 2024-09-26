@@ -1,0 +1,48 @@
+/*#box0{
+    height: 100px;
+    width: 100px;
+    background-color:grey;
+    font-size: 20px;
+}
+#box10{
+    height: 50px;
+    background-color: red;
+    margin-left: 20%;
+    font-size: 2em;
+    width: 20vh;
+}
+*/
+div{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    display: inline-block;
+    border: 2px double black;
+}
+#box1{
+    position: static;
+    background-color: green;
+    z-index: 3;
+}
+#box2{
+    position: relative;
+    top: 20px;
+    right: 20px; 
+    background-color: red;
+    z-index: 1;
+    
+} 
+#box3{
+    position: relative;
+    background-color: brown;
+    top: 20px;
+    right: 50px;
+    z-index: 3
+    ;
+}
+#box4{
+    position: fixed;
+    background-color: beige;
+    top: 0;
+    
+}
