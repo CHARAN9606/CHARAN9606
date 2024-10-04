@@ -1,0 +1,50 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color:dodgerblue;
+    color: red;
+    font-size: 50px;
+    transition-delay: 2s;
+    transition:all 2S ease-in ;
+    position: absolute;    
+    left:50px;
+    top: 50px;
+    /*animation-name: animation;
+    animation-duration:3s;
+    animation-delay:0s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;*/
+    animation: animation 5s linear 5 alternate ;
+}
+ /*div:hover{
+    background-color: green;
+}
+div:active{
+    background-color: black;
+    transform: skew(20deg);
+}*/
+/* @keyframes animation{
+    form{
+        background-color:dodgerblue ;
+        top:0px;
+    }
+    to{
+        background-color: olive;
+        top:200px;
+    }
+} */
+@keyframes animation{
+    0%{
+        background-color:dodgerblue ;
+        top:0px;
+    }
+    50%{
+        background-color: brown;
+        top:125px;
+    }
+    100%{
+        background-color: olive;
+        top:200px;
+    }
+}
