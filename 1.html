@@ -5,26 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<link rel="stylesheet" href="1.css">
 <body>
-    <h1>__CHS__</h1>
-    <button id="stop">Stop</button>
-    
+    <h1 class="Heading ">Heading 1</h1>
+    <h1 class="Heading">Heading 2 </h1>
+    <h1 class="Heading">Heading 3</h1>
+    <h2 id="red">Heading</h2>
+    <h3 id="green">Heading</h3>
+    <!-- <button id="button">Click me</button> -->
 </body>
-<script>
-    const time = function(){
-        console.log('Hello');
-    }
-   const change = function(){
-     document.querySelector('h1').innerHTML= `ChittalPhattal`
-   }
-   let changeMe = setTimeout(change,2500)
-
-     document.querySelector('#stop').addEventListener('click',function(){
-            clearTimeout(changeMe)  
-            console.log('Stopped')
-        })
-     
-     
-    
-</script>
 </html>

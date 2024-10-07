@@ -1,0 +1,14 @@
+.Heading{
+    color: blue;
+}
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
+#button{
+    color: grey;
+    border: 2px solid black;
+    border-radius: 5px;
+}
