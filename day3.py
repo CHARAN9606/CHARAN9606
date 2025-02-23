@@ -40,9 +40,36 @@
 #         print(out)
 
 
-list = [2,3,4,5,6,10]
-max = list[0]
-for numbers in list:
-    if numbers > max:
-        max = numbers
-print(max)
+# list = [2,3,4,5,6,10]
+# max = list[0]
+# for numbers in list:
+#     if numbers > max:
+#         max = numbers
+# print(max)
+
+
+# numbers = [1,3,2,4,9,6,5,9,2,3,4,5]
+# diff = []
+# for number in  numbers:
+#     if number not in diff:
+#         diff.append(number)
+# print(diff)
+# # numbers.append(20)
+# # print(numbers[2])
+# # print(numbers)
+#
+# numbers.remove(3)
+# print(numbers)
+
+
+phone =input("Enter the number : ")
+dict =  {
+    "1" : "one",
+    "2" : "Two",
+    "3" : "Three",
+    "4" : "Four"
+}
+out = ""
+for number in phone :
+    out += dict.get(number , "!") + " "
+print(out)
