@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+Hi i am Charan.HS a AI and DS student , passionate about doing projects in AI and Ml and also efficient front end developer and ui/ux designer and also a bit of data analysis :
 Passionate Data Scientist / Analyst
 
 
